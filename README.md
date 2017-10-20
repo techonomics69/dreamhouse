@@ -1,6 +1,8 @@
 DreamHouse Web App
 ------------------
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/techonomics69/dreamhouse.svg)](https://greenkeeper.io/)
+
 This sample app is a mobile web app for [DreamHouse](https://dreamhouse-site.herokuapp.com/) that runs on Heroku and optionally uses Heroku Connect to get data from Salesforce.  Check out a demo:
 
 [![Demo](http://img.youtube.com/vi/sSoUGkqveMo/0.jpg)](http://www.youtube.com/watch?v=sSoUGkqveMo)
